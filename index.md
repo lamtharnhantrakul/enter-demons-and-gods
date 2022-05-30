@@ -8,7 +8,9 @@ _“I often find it difficult to use AI in writing music inspired by my home cou
 
 Most AI models are rooted in Western definitions of melody, harmony, and tuning. For example, training datasets contain mainly Western genres like classical, rock and pop. Models can only output notes on keys of a piano i.e. a 12-tone equal temperament tuning (12-TET). Thai classical music does not follow these conventions. Neither does music from Indonesia, Vietnam and countries from Southeast Asia, the Middle East and Africa. Historically, these built-in assumptions have made it near-impossible to apply music machine learning (ML) to these traditions.
 
-My submission aims to demonstrate how advancements in realtime audio ML enable unprecedented audio synthesis with respect to a culture’s native tuning. It manifests my longstanding vision and research on how AI can empower sonic cultures from Southeast Asia and beyond. The song is entitled อสุระเทวะชุมนุม (“Asura Deva Choom Noom”) - Enter Demons & Gods. 
+My submission aims to demonstrate how advancements in realtime audio ML enable unprecedented audio synthesis with respect to a culture’s native tuning. It manifests my longstanding [vision] and research on how AI can empower sonic cultures from Southeast Asia and beyond. The song is entitled อสุระเทวะชุมนุม (“Asura Deva Choom Noom”) - Enter Demons & Gods. 
+
+[vision]: https://magenta.tensorflow.org/transcultural
 
 ## Meet the ปี่ “Phi”: a case study of incompatibilities in Music AI
 One of my favorite Thai instruments is the ปี่ “Phi”, a double reeded instrument similar to a concert oboe but more piercing in tone. Its rousing timbre is an integral part of Thai culture: from hyping-up roaring crowds during มวยไทย “Muay Thai” boxing matches to calling for people’s attention during a ceremony’s opening.
@@ -62,7 +64,10 @@ The beat during the opening {0:22} and drop {2:09} were programmed by hand and M
 
 It’s exciting to see realtime audio ML tools unlock new pathways for Thai and electronic music to supercharge one another. Developing AI tools like MAWF and DDSP to empower transcultural music-making continues to underpin all my technical and artistic work. I hope my submission and the AI Song Contest platform can inspire like-minded composers, especially from the Asia-Pacific, Middle-East and Africa, to apply these techniques to their traditions, and invite musicians from the West to explore, understand and experiment with musical inflections in the way our cultures experience them.
 
+
 ML Engineering: Yaboi Hanoi
+
 Composition and Arrangement: Yaboi Hanoi
+
 Production and Mixing: Yaboi Hanoi
 
