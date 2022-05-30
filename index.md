@@ -17,6 +17,8 @@ One of my favorite Thai instruments is the ปี่ “[Phi]”, a double reede
 
 Music centered around the Phi demonstrate how most symbolic models fall short outside of Bach, Bieber and the Beatles. The diagram below shows how Phi intervals across two octaves do not align with MIDI notes used to represent Western music as data. There is no way of feeding Phi melodies into an AI model for it to analyze, and no way for the model to express melodic responses in Phi pitch space. 
 
+![Tuning](./Tuning.png)
+
 This particular Phi, called a ปี่ใน “[Phi Nai]”, has no octave equivalence. For many notes an octave is closer to, but not exactly, a major 7th. The tonic also sits at 322 Hz between E and Eb. In the past, this would have marked my dead-end. How does one begin to use AI, let alone a piano-roll in Ableton, to write music in “E slightly quarter-tone flat with no equal octaves”? Not anymore. Enter audio machine learning (audio ML).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l9RsMX2dQ40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -30,6 +32,8 @@ This particular Phi, called a ปี่ใน “[Phi Nai]”, has no octave equ
 The opening trill at {[0:01], [0:40]} features a distinct motif from Phi Nai repertoire; synthesized in realtime using audio ML. A pair of AI systems model music at the level of frequencies (audio AI models) instead of discrete notes (symbolic AI models). Given a monophonic melody like those from a Phi, ML-based pitch detection models like “[CREPE]” and “[SPICE]” can output accurate frequency measurements in hertz (Hz). I could analyze a Phi Nai’s melodic inflections with unprecedented precision (see figure).
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1277781574&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-458660217" title="yaboihanoi" target="_blank" style="color: #cccccc; text-decoration: none;">yaboihanoi</a> · <a href="https://soundcloud.com/user-458660217/1-phi-nai-opening-trill" title="1 Phi Nai ปี่ใน Opening Trill" target="_blank" style="color: #cccccc; text-decoration: none;">1 Phi Nai ปี่ใน Opening Trill</a></div>
+
+![Analysis](./Analysis.png)
 
 [0:01]: https://soundcloud.com/user-458660217/1-phi-nai-opening-trill?in=user-458660217/sets/enter-demons-gods-ai-song-contest-stems&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 [0:40]: https://soundcloud.com/user-458660217/2-phi-nai-trill-ensemble?in=user-458660217/sets/enter-demons-gods-ai-song-contest-stems&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
@@ -127,6 +131,8 @@ Instead of triggering pre-existing drum samples with Drumify, I investigated a n
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1277781295&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-458660217" title="yaboihanoi" target="_blank" style="color: #cccccc; text-decoration: none;">yaboihanoi</a> · <a href="https://soundcloud.com/user-458660217/10-snare-interpolate" title="10 Snare Interpolate" target="_blank" style="color: #cccccc; text-decoration: none;">10 Snare Interpolate</a></div>
 
 The beat during the opening {0:22} and drop {2:09} were programmed by hand and MIDI hits humanized by Magenta Studio’s “Groove” to introduce natural delays like a drummer. Compared to purely audio ML models, I found separating drum arrangement into symbolic generation via MIDI (Magenta Studio) and then triggering synthesized one-shots (CRASH) to yield more precise rhythmic results.
+
+![Process](./Process.png)
 
 ### Transcultural Machine Learning in Music
 
