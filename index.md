@@ -64,11 +64,22 @@ _“This workflow centered around Thai music would not be possible with traditio
 [Jukebox]: https://openai.com/blog/jukebox/
 
 ### Enter Demons and Gods (Creating the Bass)
-If you’ve ever exited immigration at Suvarnabhumi international airport in Bangkok, you may have walked into this sculpture inspired by Thai mythology. Hundreds of demons and angels descend upon the ocean to churn an elixir of immortality. “My song depicts the earth-shattering entrance of these two formidable forces. If one of these demons played Phi, it would sound like this bass.”
+If you’ve ever exited immigration at Suvarnabhumi international airport in Bangkok, you may have walked into this [sculpture] inspired by Thai mythology. Hundreds of demons and angels descend upon the ocean to churn an elixir of immortality. “My song depicts the earth-shattering entrance of these two formidable forces. If one of these demons played Phi, it would sound like this bass.”
 
-The bass sound design evokes a demonic and aggressive re-imagination of the Phi Nai. I used MAWF’s ability to synthesize “breath noises” to layer and create a bass sound the demon overture could have “blown” to signal their arrival {0:13, 1:29}.  Producers often layer noise in a similar manner to make bass sounds more thrilling and epic.
+https://soundcloud.com/user-458660217/5-bass-hiphop?in=user-458660217/sets/enter-demons-gods-ai-song-contest-stems
 
-MAWF alone cannot produce sub-bass. I turned to tuning techniques taught by Khyam Allami in our recently released Common Tonalities project. Using MTS-ESP, synths like Arturia’s JUP-8 can be re-tuned to match Phi Nai frequencies detected by CREPE and Melodyne. MAWF can continue pitch-tracking this Thai-tuned bass and fill higher frequency sizzles. I played this bass patch like a counter-melody: leveraging my knowledge of Thai music, carefully studying motifs from Phi Nai repertoire and melding these with bass lines typical of Flux Pavilion and electronic bass music {2:10}.
+The bass sound design evokes a demonic and aggressive re-imagination of the Phi Nai. I used MAWF’s ability to synthesize “breath noises” to layer and create a bass sound the demon overture could have “blown” to signal their arrival {[0:13], [1:29]}.  Producers often layer noise in a similar manner to make bass sounds more thrilling and epic.
+
+https://soundcloud.com/user-458660217/4-opening-bass-siren
+
+MAWF alone cannot produce sub-bass. I turned to tuning techniques taught by Khyam Allami in our recently released Common Tonalities project. Using MTS-ESP, synths like Arturia’s JUP-8 can be re-tuned to match Phi Nai frequencies detected by CREPE and Melodyne. MAWF can continue pitch-tracking this Thai-tuned bass and fill higher frequency sizzles. I played this bass patch like a counter-melody: leveraging my knowledge of Thai music, carefully studying motifs from Phi Nai repertoire and melding these with bass lines typical of Flux Pavilion and electronic bass music {[2:10]}.
+
+https://soundcloud.com/user-458660217/7-bass-demon-blow?in=user-458660217/sets/enter-demons-gods-ai-song-contest-stems&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+
+[sculpture]: https://th.bing.com/th/id/R.4816fd0ad73e3e8f10e84e2b05953626?rik=YZK47hQXdP16Kw&riu=http%3a%2f%2fp.motionelements.com%2fstock-video%2farchitecture-buildings%2fme1767703-bangkok-suvarnabhumi-airport-timelapse-thailand-hd-a0005.jpg&ehk=aj5sAQbwwzZbXOW4aaKqgOCfHQwwtihP3wkM66urG2g%3d&risl=&pid=ImgRaw&r=0
+[0:13]: https://soundcloud.com/user-458660217/4-opening-bass-siren?in=user-458660217/sets/enter-demons-gods-ai-song-contest-stems&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+[1:29]: https://soundcloud.com/user-458660217/7-bass-demon-blow?in=user-458660217/sets/enter-demons-gods-ai-song-contest-stems&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+[2:10]: https://soundcloud.com/user-458660217/7-bass-demon-blow?in=user-458660217/sets/enter-demons-gods-ai-song-contest-stems&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 
 ### Re-imagining live performance of Thai repertoire with audio ML
 
