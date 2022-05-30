@@ -139,6 +139,16 @@ The beat during the opening {0:22} and drop {2:09} were programmed by hand and M
 
 It’s exciting to see realtime audio ML tools unlock new pathways for Thai and electronic music to supercharge one another. Developing AI tools like MAWF and DDSP to empower transcultural music-making continues to underpin all my technical and artistic work. I hope my submission and the AI Song Contest platform can inspire like-minded composers, especially from the Asia-Pacific, Middle-East and Africa, to apply these techniques to their traditions, and invite musicians from the West to explore, understand and experiment with musical inflections in the way our cultures experience them.
 
+### Yaboi Hanoi
+
+ญาบอย ฮานอย “Yaboi Hanoi” is challenging culture from Southeast Asia through dance music with a twist of tech. Over half a million viewers tuned into “[IFFY Remix]: Thai Dance Reimagined”, his shortform music series with Thai dance troupe Kid Buak Sipp and R&B artist Dorsh this past February 2022. He was recently selected by [Nusasonic] and the Goethe Institute as one of 20 artists featured in Khyam Allami’s [Common Tonalities] album. His track ชิงชัย  “Ching Chai” was based on an analysis of tunings and scales from the South of Thailand through new music technogies and modern bass music. Yaboi Hanoi is the Bangkok-born musical brainchild of Lamtharn “Hanoi” Hantrakul; fusing his unique background as a composer, [award-winning] Cultural Technologist and Audio AI [Research Scientist].
+
+[IFFY Remix]: https://www.iffyremix.com/
+[Nusasonic]: https://www.goethe.de/prj/nus/en/art/cmt.html
+[Common Tonalities]: https://soundcloud.com/nusasonic/yaboi-hanoi-ching-chai-spirit?in=nusasonic/sets/common-tonalities
+[award-winning]: https://cargocollective.com/lh-hantrakul/fidular
+[Research Scientist]: https://www.linkedin.com/in/yaboihanoi/
+
 
 ML Engineering: Yaboi Hanoi
 
