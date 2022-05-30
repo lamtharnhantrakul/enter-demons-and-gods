@@ -141,14 +141,14 @@ It’s exciting to see realtime audio ML tools unlock new pathways for Thai and 
 
 ### Yaboi Hanoi
 
-ญาบอย ฮานอย “Yaboi Hanoi” is challenging culture from Southeast Asia through dance music with a twist of tech. Over half a million viewers tuned into “[IFFY Remix]: Thai Dance Reimagined”, his shortform music series with Thai dance troupe Kid Buak Sipp and R&B artist Dorsh this past February 2022. He was recently selected by [Nusasonic] and the Goethe Institute as one of 20 artists featured in Khyam Allami’s [Common Tonalities] album. His track ชิงชัย  “Ching Chai” was based on an analysis of tunings and scales from the South of Thailand through new music technogies and modern bass music. Yaboi Hanoi is the Bangkok-born musical brainchild of Lamtharn “Hanoi” Hantrakul; fusing his unique background as a composer, [award-winning] Cultural Technologist and Audio AI [Research Scientist].
+ญาบอย ฮานอย “Yaboi Hanoi” is challenging culture from Southeast Asia through dance music with a twist of tech. Over half a million viewers tuned into “[IFFY Remix]: Thai Dance Reimagined”, his shortform music series with Thai dance troupe Kid Buak Sipp and R&B artist Dorsh this past February 2022. He was recently selected by [Nusasonic] and the Goethe Institute as one of 20 artists featured in Khyam Allami’s [Common Tonalities] album. His track ชิงชัย  “[Ching Chai]” was based on an analysis of tunings and scales from the South of Thailand through new music technogies and modern bass music. Yaboi Hanoi is the Bangkok-born musical brainchild of Lamtharn “Hanoi” Hantrakul; fusing his unique background as a composer, [award-winning] Cultural Technologist and Audio AI [Research Scientist].
 
 [IFFY Remix]: https://www.iffyremix.com/
-[Nusasonic]: https://www.goethe.de/prj/nus/en/art/cmt.html
-[Common Tonalities]: https://soundcloud.com/nusasonic/yaboi-hanoi-ching-chai-spirit?in=nusasonic/sets/common-tonalities
+[Nusasonic]: https://www.goethe.de/prj/nus/en/index.html
+[Common Tonalities]: https://www.goethe.de/prj/nus/en/art/cmt.html
+[Ching Chai]: https://soundcloud.com/nusasonic/yaboi-hanoi-ching-chai-spirit?in=nusasonic/sets/common-tonalities
 [award-winning]: https://cargocollective.com/lh-hantrakul/fidular
 [Research Scientist]: https://www.linkedin.com/in/yaboihanoi/
-
 
 ML Engineering: Yaboi Hanoi
 
