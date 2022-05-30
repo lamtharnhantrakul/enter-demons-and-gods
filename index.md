@@ -1,6 +1,6 @@
 # AI Song Contest 2022 Process Document
-## อสุระเทวะชุมนุม - ญาบอย ฮานอย
-## Enter Demons & Gods – Yaboi Hanoi
+## อสุระเทวะชุมนุม - [ญาบอย ฮานอย](https://www.tiktok.com/@yaboihanoi?lang=en)
+## Enter Demons & Gods – [Yaboi Hanoi](https://www.instagram.com/yaboihanoi/)
 
 
 ### Empowering music from Southeast Asia and beyond
@@ -102,9 +102,19 @@ I strive for a new normal where modern electronic music woven with instruments i
 	
 ### Drop the beat (and my insecurities playing drums)
 
-I don’t play drums. Magenta Studio’s “Drumify” plugin has been a regular part of my creative process. Much like a producer keeps a folder of funky drum breaks, I’ve kept a folder of funky Drumify rhythms. When direct input of the melody into Drumify didn’t yield groovy results, I found a previous rhythm which, after some tweaking, worked really well with the verse {1:31}. To connect with a wider audience, I wanted rhythms rooted in more popular genres. Drumify’s underlying dataset of rock, hip hop and funk drummers was well-matched for this criteria.
+I don’t play drums. [Magenta Studio]’s “Drumify” plugin has been a regular part of my creative process. Much like a producer keeps a folder of funky drum breaks, I’ve kept a folder of funky Drumify rhythms. When direct input of the melody into Drumify didn’t yield groovy results, I found a previous rhythm which, after some tweaking, worked really well with the verse {1:31}. To connect with a wider audience, I wanted rhythms rooted in more popular genres. Drumify’s underlying dataset of rock, hip hop and funk drummers was well-matched for this criteria.
 
-Instead of triggering pre-existing drum samples with Drumify, I investigated a new diffusion model “CRASH” capable of high quality 44.1kHz drum synthesis. Interpolating hi-hats in latent space creates hits with small and pleasant variations in timbre {0:21, 1:34}, much like how producers avoid repetitive hi-hats by modifying velocity and filter cutoff of a single sample. Unlike most electronic songs, every kick {0:21}, snare {0:22} and hi-hat in this track is “interpolated” slightly different from the last one. 
+[Magenta Studio]: https://magenta.tensorflow.org/studio/ableton-live
+
+Instead of triggering pre-existing drum samples with Drumify, I investigated a new [diffusion] model “[CRASH]” capable of high quality 44.1kHz drum synthesis. Interpolating hi-hats in latent space creates hits with small and pleasant variations in timbre {[0:21], [1:34]}, much like how producers avoid repetitive hi-hats by modifying velocity and filter cutoff of a single sample. Unlike most electronic songs, every [kick] {0:21}, [snare] {0:22} and hi-hat in this track is “interpolated” slightly different from the last one. 
+
+[diffusion]: https://arxiv.org/abs/2106.07431
+[CRASH]: https://crash-diffusion.github.io/crash/
+[0:21]: https://soundcloud.com/user-458660217/12-hihat-interpolate-2?in=user-458660217/sets/enter-demons-gods-ai-song-contest-stems&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+[1:34]: https://soundcloud.com/user-458660217/11-hihat-interpolate?in=user-458660217/sets/enter-demons-gods-ai-song-contest-stems&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+[kick]: https://soundcloud.com/user-458660217/9-kicks-interpolate?in=user-458660217/sets/enter-demons-gods-ai-song-contest-stems&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+[snare]: https://soundcloud.com/user-458660217/10-snare-interpolate?in=user-458660217/sets/enter-demons-gods-ai-song-contest-stems&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+
 
 The beat during the opening {0:22} and drop {2:09} were programmed by hand and MIDI hits humanized by Magenta Studio’s “Groove” to introduce natural delays like a drummer. Compared to purely audio ML models, I found separating drum arrangement into symbolic generation via MIDI (Magenta Studio) and then triggering synthesized one-shots (CRASH) to yield more precise rhythmic results.
 
