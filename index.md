@@ -66,7 +66,7 @@ _“This workflow centered around Thai music would not be possible with traditio
 ### Enter Demons and Gods (Creating the Bass)
 If you’ve ever exited immigration at Suvarnabhumi international airport in Bangkok, you may have walked into this [sculpture] inspired by Thai mythology. Hundreds of demons and angels descend upon the ocean to churn an elixir of immortality. “My song depicts the earth-shattering entrance of these two formidable forces. If one of these demons played Phi, it would sound like this bass.”
 
-https://soundcloud.com/user-458660217/5-bass-hiphop?in=user-458660217/sets/enter-demons-gods-ai-song-contest-stems
+https://soundcloud.com/user-458660217/5-bass-hiphop
 
 The bass sound design evokes a demonic and aggressive re-imagination of the Phi Nai. I used MAWF’s ability to synthesize “breath noises” to layer and create a bass sound the demon overture could have “blown” to signal their arrival {[0:13], [1:29]}.  Producers often layer noise in a similar manner to make bass sounds more thrilling and epic.
 
@@ -74,7 +74,7 @@ https://soundcloud.com/user-458660217/4-opening-bass-siren
 
 MAWF alone cannot produce sub-bass. I turned to tuning techniques taught by Khyam Allami in our recently released Common Tonalities project. Using MTS-ESP, synths like Arturia’s JUP-8 can be re-tuned to match Phi Nai frequencies detected by CREPE and Melodyne. MAWF can continue pitch-tracking this Thai-tuned bass and fill higher frequency sizzles. I played this bass patch like a counter-melody: leveraging my knowledge of Thai music, carefully studying motifs from Phi Nai repertoire and melding these with bass lines typical of Flux Pavilion and electronic bass music {[2:10]}.
 
-https://soundcloud.com/user-458660217/7-bass-demon-blow?in=user-458660217/sets/enter-demons-gods-ai-song-contest-stems&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+https://soundcloud.com/user-458660217/7-bass-demon-blow
 
 [sculpture]: https://th.bing.com/th/id/R.4816fd0ad73e3e8f10e84e2b05953626?rik=YZK47hQXdP16Kw&riu=http%3a%2f%2fp.motionelements.com%2fstock-video%2farchitecture-buildings%2fme1767703-bangkok-suvarnabhumi-airport-timelapse-thailand-hd-a0005.jpg&ehk=aj5sAQbwwzZbXOW4aaKqgOCfHQwwtihP3wkM66urG2g%3d&risl=&pid=ImgRaw&r=0
 [0:13]: https://soundcloud.com/user-458660217/4-opening-bass-siren?in=user-458660217/sets/enter-demons-gods-ai-song-contest-stems&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
@@ -89,9 +89,16 @@ In contemporary Thai music, instruments like the ระนาด “Ranard” xy
 
 This submission aims to show how local Southeast Asian instruments can be re-imagined through audio ML in the context of modern genres, whilst celebrating fundamental aspects of our musical cultures like tuning. Because MAWF runs in realtime, the melody and bass can be performed live through a normal Ableton effects rack and extended to Phi players from neighboring Laos, Cambodia and other countries. 
 
-Listeners may feel especially moved by bass music in tunings from Thailand. Naturally occurring intervals in this piece may sound particularly “demonic” as they flirt with a tritone i.e. the “devil’s interval” in Western music. Audio ML systems like MAWF which track and render notes with non-octave equivalence makes the bass all the more unsettling {0:58, 1:38}. I deepened this sensation with tremolos and textures from MAWF using similar intervals {1:39}.
+Listeners may feel especially moved by bass music in tunings from Thailand. Naturally occurring intervals in this piece may sound particularly “demonic” as they flirt with a tritone i.e. the “devil’s interval” in Western music. Audio ML systems like MAWF which track and render notes with non-octave equivalence makes the bass all the more [unsettling] {0:58, 1:38}. I deepened this sensation with tremolos and [textures] from MAWF using similar intervals {1:39}.
+
+https://soundcloud.com/user-458660217/6-bass-tritones
+https://soundcloud.com/user-458660217/8-textures
 
 I strive for a new normal where modern electronic music woven with instruments in native tunings, both real and AI generated, becomes a part of everyday culture: from entertaining international head-bobbing audiences at Coachella, to provincial communities in Thailand where festive gatherings at home, temple fairs and local elections are not complete without a Phi. “When the music of an instrument, synth, human, machine or AI has the เเม่เสียง or ‘sonic DNA’…it will naturally find a way to speak and connect to community.” 
+
+[unsettling]: https://soundcloud.com/user-458660217/6-bass-tritones?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+[textures]: https://soundcloud.com/user-458660217/8-textures
+
 	
 ### Drop the beat (and my insecurities playing drums)
 
